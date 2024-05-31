@@ -1,0 +1,1 @@
+This project summarizes football matches by detection the scoreboard and the numbers inside it using yolo and ocr. When goals are scored, this moment is important, and thus we can make a summary of the goals.
