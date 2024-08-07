@@ -1,0 +1,32 @@
+MCI Mario Balotelli 22nd minute 21:26 ~ Goal
+MCI Mario Balotelli 23.19 ~ Yellow card
+MCI Vincent Kompany 40:14 ~ Yellow card
+MUN Jonny Evans 46:16 ~ Red card
+MCI Mario Balotelli 60th minute 59:38 ~ Goal
+MUN Anderson 61:07 ~ Yellow card
+MUN (player-out = Anderson) (player-in = Phil Jones) 64:55 ~ Substitution
+MUN (player-out = Nani) (player-in = Javier Hernandez) 65:23 ~ Substitution
+MUN Patrice Evra 66.48 ~ Yellow card
+MCI Sergio Aguero 69th minute 68:07 ~ Goal
+MCI (player-out = Mario Balotelli) (player-in = Edin Dzeko) 69:20 ~ Substitution
+MCI (player-out = Sergio Aguero) (player-in = Samir Nasri) 74.49 ~ Substitution
+MUN Chris Smalling 78.24 ~ Yellow card
+MUN Darren Fletcher 81st minute 80:10 ~ Goal
+MUN Danny Welbeck 82.23 ~ Yellow card
+MCI Micah Richards 85.14 ~ Yellow card
+MCI (player-out = James Milner) (player-in = Aleksandar Kolarov) 88:07 ~ Substitution
+MCI Edin Dzeko 89th minute 88:59 ~ Goal
+MCI David Silva 91st minute 90:10 ~ Goal
+MCI Edin Dzeko 93rd minute 92:59 ~ Goal
+
+Goals Scored by MUN: 1
+Goals Scored by MCI: 6
+Yellow card MUN: 4
+Yellow card MCI: 3
+Red card MUN: 1
+Red card MCI: 0
+Substitution MUN: 2
+Substitution MCI: 3
+Red card: 1
+Substitution: 5
+Yellow card: 7
